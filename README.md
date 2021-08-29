@@ -1,2 +1,3 @@
-# helloworld
-code for demo pipeline
+# maven-project
+
+Simple Maven Project
