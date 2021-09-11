@@ -6,3 +6,5 @@
 <h1> it works like a charm </h1>
 
 <h1> this line is for docker!!!! </h1>
+
+<h1> this is a new version: latest !!!! </h1>
