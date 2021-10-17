@@ -5,22 +5,13 @@
 <h1> good !!! </h1>
 <h1> it works like a charm </h1>
 
-<h1> this line is for docker!!!! </h1>
 
-<h1> i just keep adding stuff huh </h1> 
-<h1> tomcat works!!! </h1>
-<h1> this is a note on certain difficulties encountered: make sure you set up maven, java(both on jenkins and tomcat ) , configure your credentials properly, and use (h/2 * * * *) to set up 2 min intervals , adjust as needed.</h1
-
-
-<h1> i wonder what happens when the page gets too long </h1> 
-<h1> what i mean is how do we go to the next page </h1>
+<h1> Finally got my docker container to work! thing is it works only on my centos server but won't work on my ec2 instances . 
+	I understand the concept tho and that's what matters! right??? </h1>
 
 
 
 
 
 
-<h1> hahaahah </h1>
-<h1> docker </h1>
 
-<h1> dockerdocker	</h1>
