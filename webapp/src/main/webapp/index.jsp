@@ -11,7 +11,7 @@
 
 <h1> poll scm line </h1> 
 
-<h1> there was a line uncommented in my Dockerfile so i couldn't access my path |: </h1> 
+<h1> tehere was a line uncommented in my Dockerfile so i couldn't access my path |: </h1> 
 
 
 
