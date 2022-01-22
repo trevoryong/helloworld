@@ -19,7 +19,7 @@
 >>>>>>> 5fa96889632b0337abf6965bec1a14826329d5d6
 
 
-<h1> this is the full pipeline |: </h1> 
+<h1> thsis is the full pipeline |: </h1> 
 
 
 
