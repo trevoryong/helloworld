@@ -11,15 +11,12 @@
 
 <h1> poll scm line </h1> 
 
-<<<<<<< HEAD
 
-=======
 <h1> tehere was a line uncommented in my Dockerfile so i couldn't access my path |: </h1> 
 <h1> this was modified on the dev branch </h1>
->>>>>>> 5fa96889632b0337abf6965bec1a14826329d5d6
 
 
 <h1> thsis is the full pipeline |: </h1> 
-
+<h1> new line </h1>
 
 
