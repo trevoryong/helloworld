@@ -17,6 +17,6 @@
 
 
 <h1> thsis is the full pipeline |: </h1> 
-<h1> new linee </h1>
+<h1> new liniee </h1>
 
 
