@@ -3,6 +3,6 @@ From tomcat:8-jre8
 
 # Maintainer 
 MAINTAINER "trevoryonggg@gmail.com" 
-COPY ./webapp/target /usr/local/tomcat/
+COPY ./webapp/target /usr/local/tomcat/webapp
 
 
