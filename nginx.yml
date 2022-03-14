@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: trevoryong/newtcat
+        image: trevoryong/devv
         ports:
         - containerPort: 8080
 ~
